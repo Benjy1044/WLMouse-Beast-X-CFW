@@ -1,3 +1,6 @@
+#Releasing shortly.
+
+
 # WL BeastX CFW
 This is unofficial software for the WLMouse Beast X
 
