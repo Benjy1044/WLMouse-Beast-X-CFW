@@ -1,4 +1,5 @@
-# Releasing shortly.
+# Releasing before christmas 🎄
+
 
 
 # WL BeastX CFW
